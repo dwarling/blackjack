@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Logs / transcripts
+*.jsonl
+
+# Node (not used, ignored in case tooling adds it)
+node_modules/
+
+# Saved game data (high score file written at runtime)
+highscore.json
